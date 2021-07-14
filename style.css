@@ -74,7 +74,7 @@ body {
 /* UNFORTUNATELY MY BRAIN STOPPED */
 
 .name-color{
-    color:orange;
+    color:rgb(21, 187, 137);
 }
 .hover:hover{
     background-color:aquamarine;
@@ -137,7 +137,7 @@ body {
     flex-direction: column;
   }
   .name-color{
-    color:orange;
+    color:rgb(21, 187, 137);
 }
 .hover:hover{
     background-color:aquamarine;
@@ -175,7 +175,7 @@ body {
         margin-top: 53px;
       }
       .name-color{
-        color:orange;
+        color:rgb(21, 187, 137);
     }
     .hover:hover{
         background-color:aquamarine;
