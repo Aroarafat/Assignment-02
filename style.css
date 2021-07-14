@@ -70,6 +70,30 @@ body {
 
 /* BLOG-STYLE-END */
 
+/* EXTRA-SECTTION */
+/* UNFORTUNATELY MY BRAIN STOPPED */
+
+.name-color{
+    color:orange;
+}
+.hover:hover{
+    background-color:aquamarine;
+    margin-left: 400px;
+    color:red;
+}
+.six:hover{
+    font-size:70px;
+    background-color:palevioletred ;
+    border-radius: 30px;
+    
+}
+.eight:hover{
+    font-size: 70px;
+    background-color:palevioletred ;
+    border-radius: 30px;
+    
+}
+
 /* FOOTER-START*/
 .footer {
   margin-top: 180px;
@@ -112,6 +136,26 @@ body {
     margin-top: 53px;
     flex-direction: column;
   }
+  .name-color{
+    color:orange;
+}
+.hover:hover{
+    background-color:aquamarine;
+    margin-left: 400px;
+    color:red;
+}
+.six:hover{
+    font-size:70px;
+    background-color:palevioletred ;
+    border-radius: 30px;
+    
+}
+.eight:hover{
+    font-size: 70px;
+    background-color:palevioletred ;
+    border-radius: 30px;
+    
+}
 }
 /* TABLET DEVICES */
 
@@ -130,4 +174,24 @@ body {
         margin-left:-28px;
         margin-top: 53px;
       }
+      .name-color{
+        color:orange;
+    }
+    .hover:hover{
+        background-color:aquamarine;
+        margin-left: 400px;
+        color:red;
+    }
+    .six:hover{
+        font-size:70px;
+        background-color:palevioletred ;
+        border-radius: 30px;
+        
+    }
+    .eight:hover{
+        font-size: 70px;
+        background-color:palevioletred ;
+        border-radius: 30px;
+        
+    }
 }
